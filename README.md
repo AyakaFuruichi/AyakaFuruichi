@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Ayaka
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,vite,figma)](https://skillicons.dev)
 
 <!--
 **AyakaFuruichi/AyakaFuruichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
